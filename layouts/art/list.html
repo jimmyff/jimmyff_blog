@@ -1,0 +1,53 @@
+{{ define "styles" }}
+    {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/posts.scss" "dest" "css/posts.css") }}
+{{ end }}
+
+{{ define "main" }}
+    
+{{ $dateFormat := .Site.Params.dateFormat | default "Jan 2 2006" }}    
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+.gallery .post {
+  width:12em; height: 14em;
+  margin: 0.5em;
+}
+
+.gallery .post a {
+  display: block;
+  background-color: #fafafa;
+  width:12em; height:12em;
+}
+.gallery .post img {
+  max-width:12em; max-height: 12em;
+}
+</style>
+<div class="post-list__container">
+  <ul class="post-list gallery">
+    {{ range $page := .Pages }}
+
+      {{ range $img := .Params.images }}
+      <li class="post">
+        <div class="post__header">
+          
+      
+            <a href="{{$page.RelPermalink}}">
+              <img src="{{$page.RelPermalink}}{{ $img }}"  title="{{ $page.Title }}" />
+            </a>
+            <time class="post__date" datetime="{{ $page.Date }}"
+            >{{ $page.Date.Format $dateFormat }}</time>
+      
+          {{ partial "tags.html" $page}}
+        </div>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+  {{ partial "browse-by-tag.html" .}}
+</div>
+
+{{ end }}

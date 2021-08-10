@@ -13,6 +13,7 @@ theme = "hugo-theme-codex"
 
 # Optional params
 [params]
+
   # Follow the Hugo date/time format reference here: 
   # https://gohugo.io/functions/format/#gos-layout-string
   dateFormat = "Jan 2 2006"
@@ -54,14 +55,26 @@ theme = "hugo-theme-codex"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
+  identifier = "jimmyff"
+  name = "jimmyff"
+  title = "Jimmyff"
   url = "/"
+  weight = 10
 
 [[menu.main]]
   identifier = "blog"
   name = "blog"
   title = "Blog"
   url = "/blog"
+  weight = 20
 
+[[menu.main]]
+  identifier = "art"
+  name = "art"
+  title = "Art"
+  url = "/art"
+  weight = 30
+
+
+[params.colors]
+    fancy = "#ff0000"
