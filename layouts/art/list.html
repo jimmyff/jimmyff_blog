@@ -5,27 +5,7 @@
 {{ define "main" }}
     
 {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2 2006" }}    
-<style>
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  text-align: center;
-  justify-content: center;
-}
-.gallery .post {
-  width:12em; height: 14em;
-  margin: 0.5em;
-}
 
-.gallery .post a {
-  display: block;
-  background-color: #fafafa;
-  width:12em; height:12em;
-}
-.gallery .post img {
-  max-width:12em; max-height: 12em;
-}
-</style>
 <div class="post-list__container">
   <ul class="post-list gallery">
     {{ range $page := .Pages }}
@@ -35,7 +15,7 @@
         <div class="post__header">
           
       
-            <a href="{{$page.RelPermalink}}">
+            <a href="{{$page.RelPermalink}}" class="post__thumb">
               <img src="{{$page.RelPermalink}}{{ $img }}"  title="{{ $page.Title }}" />
             </a>
             <time class="post__date" datetime="{{ $page.Date }}"
