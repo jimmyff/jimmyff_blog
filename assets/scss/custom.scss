@@ -8,6 +8,18 @@ img[src$='#pixelate'] {
   image-rendering: pixelated;
 }
 
+.youtube {
+    padding-top:1.5rem;
+}
+
+body.nav--active nav.nav, .burger__container  {
+    backdrop-filter: blur(1em) saturate(5);
+    background: rgba(255,255,255,0.92);
+}
+body.nav--active .burger__container {
+    background-color: transparent;
+    backdrop-filter:unset;
+}
 .splash h1 {
     background: transparent url("/images/rainbow.png") no-repeat;
     background-position:left center;

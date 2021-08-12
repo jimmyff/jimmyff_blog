@@ -4,6 +4,7 @@ date: 2017-07-17
 draft: false
 tags: [cellular_automata, dart]
 ---
+(_I've also posted this article [over on Medium](https://medium.com/@jimmyff/the-many-beautiful-worlds-of-cellular-automata-3e09afa8d48d)._)
 
 I've been interested in Cellular Automata (such as 'Conway's Game of Life') for years. I've implemented them countless times in various programming languages. A couple of weeks back I created a [Dart library](https://pub.dev/packages/cellular_automata) for exploring playing with Cellular Automata, it's open source and [available on Github](https://github.com/jimmyff/cellular_automata). You can browse the [demos on github](https://jimmyff.github.io/cellular_automata/) or see the library running on my personal website -the gifs on this article were also generated using the library.
 

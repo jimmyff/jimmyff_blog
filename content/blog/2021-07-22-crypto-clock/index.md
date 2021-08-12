@@ -13,9 +13,7 @@ I had a special birthday coming up and I wanted to make a cool gift to mark the 
 
 _TLDR: [Code available on Github](https://github.com/jimmyff/crypto-clock) & [try it in your browser](https://jimmyff.github.io/crypto-clock/desktop.html)._
 
-<br />
-
-{{< youtube qPAcM4U1mio >}}
+<div class="youtube">{{< youtube qPAcM4U1mio >}}</div>
 
 ## Concept
 
