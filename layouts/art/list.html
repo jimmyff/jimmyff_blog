@@ -16,7 +16,7 @@
           
       
             <a href="{{$page.RelPermalink}}" class="post__thumb">
-              <img src="{{$page.RelPermalink}}{{ $img }}"  title="{{ $page.Title }}" />
+              <img src="{{$page.RelPermalink}}{{ $img }}" loading="lazy" title="{{ $page.Title }}" />
             </a>
             <time class="post__date" datetime="{{ $page.Date }}"
             >{{ $page.Date.Format $dateFormat }}</time>
