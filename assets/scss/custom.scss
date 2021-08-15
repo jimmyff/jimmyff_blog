@@ -20,6 +20,7 @@ body.nav--active nav.nav, .burger__container  {
 body.nav--active .burger__container {
     background-color: transparent;
     backdrop-filter:unset;
+    z-index: 5;
 }
 .splash h1 {
     background: transparent url("/images/rainbow.png") no-repeat;
@@ -41,8 +42,9 @@ body.nav--active .burger__container {
         a.post__thumb {
             width:12em;
             height:12em;
-            display: block;
+            display: flex;
             background-color: #fafafa;
+            align-items: center;
         }
         a.tag__link {
             display: none;
@@ -50,6 +52,7 @@ body.nav--active .burger__container {
         img {
             max-width:12em; 
             max-height: 12em;
+            margin: auto auto;
         }
     }
 }
