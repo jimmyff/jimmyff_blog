@@ -16,6 +16,6 @@ Off the back of Inktober some friends and I started doing our own weekly prompts
 
 ![WEBP](einstien.webp "Einstien")
 
-### 24/11/20 "Moving on"
+### 24/11/20 "Fall"
 
 ![WEBP](newton.webp "Fall")
