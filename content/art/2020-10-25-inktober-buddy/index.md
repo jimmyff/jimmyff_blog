@@ -2,7 +2,7 @@
 title: "Buddy, 25/31, Inktober 2020"
 date: 2020-10-25
 draft: false
-tags: [inktober, art]
+tags: [inktober, art, nintendo]
 images: [buddy.webp]
 ---
 

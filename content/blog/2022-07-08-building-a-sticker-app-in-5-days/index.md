@@ -2,7 +2,7 @@
 title: "Building a sticker app in 5 days"
 date: 2022-07-08
 draft: false
-tags: [badges, pride]
+tags: [app, stickerapp]
 ---
 
 During London Pride I had a great selfie with some friends but the photo was spoilt by something in the foreground. I thought I'll add a stiker over part of the photo so I turned to the Goolge play store to find an app. I quickly found that I was spoilt for choice but they were almost all terrible. Despite their quality the download numbers were mindblowing, some of the apps had tens of millions of downloads! I found one app doing it well but it they were trying to push me in to a £38.99 p/year subscription! Who would pay that to stick some stickers on photos!

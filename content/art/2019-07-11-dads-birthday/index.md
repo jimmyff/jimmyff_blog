@@ -2,7 +2,7 @@
 title: "Dad's birthday"
 date: 2019-07-11
 draft: false
-tags: [art]
+tags: [art, portrait]
 images: [dad.webp]
 ---
 

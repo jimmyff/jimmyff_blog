@@ -2,7 +2,7 @@
 title: "Random portraits"
 date: 2020-11-25
 draft: false
-tags: [art]
+tags: [art, portrait]
 images: [trump.webp, einstien.webp, newton.webp]
 ---
 

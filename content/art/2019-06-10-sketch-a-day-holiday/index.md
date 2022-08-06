@@ -2,7 +2,7 @@
 title: "Holiday, sketch a day"
 date: 2019-06-10
 draft: false
-tags: [art, sketch_a_day]
+tags: [art, sketch_a_day, portrait]
 images: [holiday.webp]
 ---
 
