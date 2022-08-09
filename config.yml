@@ -11,7 +11,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: G-71ZN1D4H6Q
 
 minify:
     disableXML: true
@@ -124,7 +124,7 @@ params:
     hideFooter: false
     defaultTheme: light #auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: false
     # disableSpecial1stPost: true
     displayFullLangName: true
@@ -180,9 +180,9 @@ params:
         icon: images/rainbow.png
         iconHeight: 24
 
-    analytics:
-        google:
-            SiteVerificationTag: "G-71ZN1D4H6Q"
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "G-71ZN1D4H6Q"
 
     assets:
         disableHLJS: true
