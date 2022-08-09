@@ -6,7 +6,7 @@ tags: [inktober, art]
 images: [crispy.webp]
 ---
 
-![WEBP](image.webp "Image")
+![WEBP](crispy.webp "Image")
 
 Crispy crisps.
 

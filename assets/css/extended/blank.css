@@ -1,0 +1,113 @@
+.logo a img, .logo a svg {
+    border-radius: 0 !important;
+}
+
+
+/* 
+    Footer menu 
+    I should really put this in the theme but I don't think
+    OG author is keen for footer customisation. So in the
+    interest of avoiding future merge conflicts I'll keep
+    it here.
+*/
+ul#footer_menu {
+    list-style: none;
+    display: inline;
+}
+ul#footer_menu li {
+    display: inline;
+    margin-left: 0.5rem;
+}
+ul#footer_menu li a {
+    text-decoration: none;
+    color: var(--primary);
+    border-bottom: 0;
+}
+/* End footer.. */
+
+img[src$='#pixelate'] {
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+
+.post-content img {
+    width: 85%;
+    margin: 2em auto;
+}
+
+.youtube {
+    padding-top:1.5rem;
+}
+
+
+.gallery {
+
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    list-style: none;
+    
+}
+.gallery .post {
+    width:12em;
+    height:14em;
+    margin: 0.5em;
+}
+.gallery .post     a.post__thumb {
+    width:12em;
+    height:12em;
+    display: flex;
+    background-color: var(--entry);
+    align-items: center;
+    object-fit: cover;
+    border-radius: 0.3rem;
+    overflow: hidden;
+}
+
+.gallery .post a.tag__link {
+    display: none;
+}
+.gallery .post .post__date {
+    color: var(--secondary);
+    font-size: 13px;
+}
+.gallery .post img {
+    max-width:12em; 
+    max-height: 12em;
+    margin: auto auto;
+}
+ 
+/* Expand images on smaller screens */
+ @media screen and (max-width: 600px) {
+    /* body .main {
+        background-color: yellowgreen;
+    } */
+    .post-content img {
+        width: 100%;
+        /* 
+        Not really supported yet
+        width: calc(100% + 48px);
+        margin-left: calc(-24px);
+        margin-right: calc(-24px); */
+    }
+} 
+@media screen and (min-width: 370px) and (max-width: 540px) {
+
+    .gallery  .post {
+        width:40%;
+        max-width: 8em; 
+        max-height: 10em;
+    }
+    .gallery .post a.post__thumb {
+        max-width: 8em; 
+        max-height: 8em;
+    }
+    .gallery   a.post__thumb    img {
+        max-width: 8em; 
+        max-height: 8em;
+
+    }
+    
+} 

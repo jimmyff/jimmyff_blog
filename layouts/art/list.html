@@ -21,13 +21,13 @@
             <time class="post__date" datetime="{{ $page.Date }}"
             >{{ $page.Date.Format $dateFormat }}</time>
       
-          {{ partial "tags.html" $page}}
+          <!-- { partial "tags.html" $page}} -->
         </div>
       </li>
       {{ end }}
     {{ end }}
   </ul>
-  {{ partial "browse-by-tag.html" .}}
+  <!-- { partial "browse-by-tag.html" .}} -->
 </div>
 
 {{ end }}

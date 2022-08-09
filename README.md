@@ -1,8 +1,8 @@
 # jimmyff blog
 
-A little personal blog hosted on github pages using the fabulous HUGO static site generator.
+A little personal blog hosted on github pages using the fabulous HUGO static site generator and the lovely PaperMod theme with a bit of personalisation.
 
-[https://jimmyff.github.io](https://jimmyff.github.io)
+[https://www.jimmyff.co.uk](https://www.jimmyff.co.uk)
 
 ## Setup
 
