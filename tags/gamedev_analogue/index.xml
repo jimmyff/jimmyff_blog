@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>gamedev_analogue on jimmyff</title><link>https://jimmyff.github.io/tags/gamedev_analogue/</link><description>Recent content in gamedev_analogue on jimmyff</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><copyright>© {year}</copyright><lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jimmyff.github.io/tags/gamedev_analogue/index.xml" rel="self" type="application/rss+xml"/><item><title>Eurovision game 2.0 - The card game!</title><link>https://jimmyff.github.io/blog/2020-12-21-eurovision-game-2-the-card-game/</link><pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate><guid>https://jimmyff.github.io/blog/2020-12-21-eurovision-game-2-the-card-game/</guid><description>My previous Eurovision game took around two of prototyping countless versions and lots and lots of playtesting but I never felt I was tottally satisfied with it. About 6 weeks ago I started working on a tottally new reminaged game and today I&amp;rsquo;ve finally finished creating the first proper protoytpe complete with artwork. Read on to here about how it plays!
-Game design Bringing some succesful parts of the previous game forward: There was a lot of really good stuff in the previous game so I brought forward the bits that I were portable and would fit in to this new game.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gamedev_analogue on jimmyff</title>
+    <link>https://www.jimmyff.co.uk/tags/gamedev_analogue/</link>
+    <description>Recent content in gamedev_analogue on jimmyff</description>
+    <image>
+      <url>https://www.jimmyff.co.uk/papermod-cover.png</url>
+      <link>https://www.jimmyff.co.uk/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© Jimmy Forrester-Fellowes</copyright>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jimmyff.co.uk/tags/gamedev_analogue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eurovision game 2.0 - The card game!</title>
+      <link>https://www.jimmyff.co.uk/blog/2020-12-21-eurovision-game-2-the-card-game/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jimmyff.co.uk/blog/2020-12-21-eurovision-game-2-the-card-game/</guid>
+      <description>My previous Eurovision game took around two of prototyping countless versions and lots and lots of playtesting but I never felt I was tottally satisfied with it. About 6 weeks ago I started working on a tottally new reminaged game and today I&amp;rsquo;ve finally finished creating the first proper protoytpe complete with artwork. Read on to here about how it plays!
+Game design Bringing some succesful parts of the previous game forward: There was a lot of really good stuff in the previous game so I brought forward the bits that I were portable and would fit in to this new game.</description>
+    </item>
+    
+  </channel>
+</rss>

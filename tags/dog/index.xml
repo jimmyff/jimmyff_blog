@@ -1,3 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dog on jimmyff</title><link>https://jimmyff.github.io/tags/dog/</link><description>Recent content in dog on jimmyff</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><copyright>© {year}</copyright><lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jimmyff.github.io/tags/dog/index.xml" rel="self" type="application/rss+xml"/><item><title>Happy Birthday Neil</title><link>https://jimmyff.github.io/art/2022-05-22-happy-birthday-neil/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>https://jimmyff.github.io/art/2022-05-22-happy-birthday-neil/</guid><description>🎂Happy birthday to my amazing husband Neil! 🎉 💝 xxxx
-Source: from photo.</description></item><item><title>Elphie</title><link>https://jimmyff.github.io/art/2021-12-14-elphie/</link><pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate><guid>https://jimmyff.github.io/art/2021-12-14-elphie/</guid><description>A quick sketch of my 10 week old baby getting all cosy #whippet #puppy
-Source: from life.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dog on jimmyff</title>
+    <link>https://www.jimmyff.co.uk/tags/dog/</link>
+    <description>Recent content in dog on jimmyff</description>
+    <image>
+      <url>https://www.jimmyff.co.uk/papermod-cover.png</url>
+      <link>https://www.jimmyff.co.uk/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© Jimmy Forrester-Fellowes</copyright>
+    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jimmyff.co.uk/tags/dog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photo week 2 - Elphie again</title>
+      <link>https://www.jimmyff.co.uk/art/2022-06-16-elphie/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jimmyff.co.uk/art/2022-06-16-elphie/</guid>
+      <description>Another painting of Elphie tonight. I ran out of time a little on this one! Could have done with another 30 minutes as I think I lost her likeness toward the end of the session.</description>
+    </item>
+    
+    <item>
+      <title>Photo week - Elphie</title>
+      <link>https://www.jimmyff.co.uk/art/2022-06-07-elphie/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jimmyff.co.uk/art/2022-06-07-elphie/</guid>
+      <description>Photo week at oil painting class tonight was a good excuse to try painting my baby Elphie 😅🐾 #whippet</description>
+    </item>
+    
+    <item>
+      <title>Happy Birthday Neil</title>
+      <link>https://www.jimmyff.co.uk/art/2022-05-22-happy-birthday-neil/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jimmyff.co.uk/art/2022-05-22-happy-birthday-neil/</guid>
+      <description>🎂Happy birthday to my amazing husband Neil! 🎉 💝 xxxx
+Source: from photo.</description>
+    </item>
+    
+    <item>
+      <title>Elphie</title>
+      <link>https://www.jimmyff.co.uk/art/2021-12-14-elphie/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.jimmyff.co.uk/art/2021-12-14-elphie/</guid>
+      <description>A quick sketch of my 10 week old baby getting all cosy #whippet #puppy
+Source: from life.</description>
+    </item>
+    
+  </channel>
+</rss>
