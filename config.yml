@@ -46,6 +46,8 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
+                - name: Contact me
+                  url: https://docs.google.com/forms/d/e/1FAIpQLScIN2i8tudYfvWZO96Ed-_ma011PgZU-CrxRyCXdSA1z9NRjA/viewform
                 # - name: WiKi
                 #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
                 # - name: Discord
